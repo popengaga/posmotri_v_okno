@@ -9,7 +9,6 @@ html {
 }
 
 .page {
-  height: 800px;
   margin: auto;
   color: #fff;
   font-family: "Fira Sans Condensed", sans-serif;
@@ -43,7 +42,7 @@ ol {
   justify-content: center;
   align-items: flex-end;
   gap: 30px;
-  margin-top: 133px;
+  padding-top: 133px;
 }
 
 .result__video{
