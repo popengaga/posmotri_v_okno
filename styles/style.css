@@ -44,7 +44,11 @@ ol {
   gap: 30px;
   margin: 0px 30px;
   padding: 133px 0px;
-
+  width: 1140px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  position: absolute;
 }
 
 .result__video{
