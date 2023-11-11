@@ -9,6 +9,7 @@ html {
 }
 
 .page {
+  height: 800px;
   margin: auto;
   color: #fff;
   font-family: "Fira Sans Condensed", sans-serif;
