@@ -16,6 +16,9 @@ html {
   background-color: #1b1919;
   inline-size: 1200px;
   block-size: 100%;
+  display: flex;
+  align-content: center;
+  flex-wrap: wrap;
 }
 
 h1,
