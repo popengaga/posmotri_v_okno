@@ -189,17 +189,17 @@ ol {
 
 .search-form__textfield{
   width: 225px;
+  min-height: 27px;
   border-top: 1px solid #FFF;
   border-right: 0;
   border-bottom: 1px solid #FFF;
   border-left: 0;
   padding-left: 0;
-  background-color: transparent;
-  min-height: 27px;
   color: #ffffffb3;
   font-family: "Fira Sans Condensed","Arial", sans-serif;
   font-weight: 400;
   font-size: 18px;
+  background-color: transparent;
 }
 
 .search-form__textfield::placeholder{
@@ -208,7 +208,6 @@ ol {
   font-weight: 400;
   font-size: 18px;
 }
-
 
 .button{
   border: 1px solid #FFF;
